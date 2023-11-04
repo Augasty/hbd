@@ -6,7 +6,7 @@ const Card = () => {
       <div className="cardFront">
         <h3 className="happy">HAPPY BIRTHDAY {NAME}!</h3>
 
-        <h5 className="suggest">click the card dost</h5>
+        <h5 className="suggest">click the card bantu</h5>
         <div className="balloons">
           <div className="balloonOne" />
           <div className="balloonTwo" />
