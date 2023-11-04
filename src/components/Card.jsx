@@ -19,8 +19,9 @@ const Card = () => {
         <p>
           Happy birthday {NAME}!! Many many happy returns of the day. 
           Please treat dis.
+
+          Augasty
         </p>
-        <p className="name">Augasty</p>
         <p className="flexing">Yep, I just flexed my technical skills.</p>
       </div>
     </div>
